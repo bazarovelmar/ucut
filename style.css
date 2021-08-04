@@ -1,0 +1,32 @@
+.btn-wrapper-end {
+    display: flex;
+    justify-content: flex-end;
+
+    margin-bottom: 60px;
+    margin-top: -74px;
+}
+
+img {
+    margin-top: 20px;
+}
+p {
+    text-align: center;
+}
+
+#sendBtn {
+    margin-top: 20px;
+}
+.form-label {
+    text-align: center;
+}
+
+a {
+    margin-left: 218px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: green;
+}
+.resultMessage {
+    font-size: 20px;
+}
+
